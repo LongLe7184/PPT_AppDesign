@@ -12,4 +12,4 @@ Mỗi người sẽ đảm nhận 1 tab và thiết kế nó. Không cần chú 
 
 Hướng dẫn sử dụng trước khi dùng!
 - Download file 'ProjectPPT.mlapp' về và thực hiện lập trình trên phần tab của mình.
-- Sau khi xong, Copy đoạn Code Callbacks của riêng mình, paste vào file notepad. Gửi vào nhóm.
+- Sau khi xong, Copy đoạn Code Callbacks của riêng mình, paste vào file notepad. Gửi vào nhóm (gửi file Notepad và file mplapp).
