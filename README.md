@@ -14,5 +14,5 @@ Hướng dẫn sử dụng trước khi dùng!
 - Sau khi xong đặt tên file ProjectPPT_MSSV.mlapp
 - Đăng tải file vừa tạo lên đây. (Chọn Add File -> Upload Files)
 ![image](https://github.com/LongLe7184/PPT_AppDesign/assets/149240182/c119cedd-42f6-4c0d-982f-d70815fc50e7)
-- Upload file notepad và file mlapp lên link Google Drive để sử dụng làm bản backup.
+- Upload file mlapp lên link Google Drive để sử dụng làm bản backup.
 https://drive.google.com/drive/folders/1lCBnVUu4XnhRlUaa6OAtQpsdeT6oILjP?usp=sharing
