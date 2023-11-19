@@ -8,7 +8,8 @@ Mỗi người sẽ đảm nhận 1 tab và thiết kế nó. Không cần chú 
 -  Tab Hồi quy
 -  Tab Đạo hàm
 -  Tab Tích phân 
--  Tab Giới thiệu nhóm (kiêm tester)
+-  Tab Giới thiệu nhóm
+
 Hướng dẫn sử dụng trước khi dùng!
 - Download file 'ProjectPPT.mlapp' về và thực hiện lập trình trên phần tab của mình.
 - Sau khi xong đặt tên file ProjectPPT_MSSV.mlapp
